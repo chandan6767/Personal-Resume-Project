@@ -224,7 +224,6 @@ section h2 {
 
 section a.more {
   border-radius: 0.5rem;
-
   text-decoration: none;
   text-align: center;
   color: var(--color-border);
@@ -341,10 +340,6 @@ a.neetocode-link:hover {
 
 #my-contact > *:not(:first-child) {
   margin-top: 0.5rem;
-}
-
-#my-contact a {
-  text-transform: none;
 }
 
 .footer {
